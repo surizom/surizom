@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello !
 
-<!--
-**surizom/surizom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Moaad, and I do full stack web development and devops.
 
-Here are some ideas to get you started:
+I am passionate about using technology to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Very curious, I like trying out new technologies and techniques.
+
+I am a strong believer in having a Kaizen approach in work and in life.
+
+I also believe that agile and XP principles and practices are the best way to deliver high-quality, cost-effective and long-lasting software.
+
+I also do astrophotgraphy whenever I can ! :)
+
+<img src="assets/orion.jpeg" width="400"></img>
+<img src="assets/andromede.jpeg" width="400"></img>
+
+
+
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=surizom&langs_count=9&theme=radical])
