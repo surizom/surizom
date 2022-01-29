@@ -30,7 +30,7 @@ I also take pretty pictures of the night sky whenever I can ! :)
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.1]][1]
+You can find me on [Linkedin](https://www.linkedin.com/in/moaadf/) !
 
 <!-- Icons -->
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
