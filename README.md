@@ -14,12 +14,17 @@ Currently trying to learn :
 - Test-Driven Development
 - Functional Programming
 - Domain-Driven Design
+- How to write great and useful tech articles
+
+
+Articles:
+
+- [Power up your Node.js debugging and error handling with the new Error cause feature](https://medium.com/ovrsea/power-up-your-node-js-debugging-and-error-handling-with-the-new-error-cause-feature-4136c563126a)
 
 I also take pretty pictures of the night sky whenever I can ! :)
 
 <img src="assets/orion.jpeg" width="400"></img>
 <img src="assets/andromede.jpeg" width="400"></img>
-
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=surizom&langs_count=9&theme=radical])
 
