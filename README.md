@@ -6,15 +6,9 @@ Passionate about using technology to solve real-world problems.
 
 Very curious, I like trying out new technologies and techniques.
 
-A strong believer in having a Kaizen approach in work and in life.
+I believe that agile and XP principles and practices are the best way to deliver high-quality, cost-effective and long-lasting software.
 
-I also believe that agile and XP principles and practices are the best way to deliver high-quality, cost-effective and long-lasting software.
-
-Currently trying to learn :
-- Test-Driven Development
-- Functional Programming
-- Domain-Driven Design
-- How to write great and useful tech articles
+Currently trying to improve my knowledge and skills in Domain-Driven Design.
 
 
 Articles:
