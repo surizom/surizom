@@ -8,8 +8,6 @@ Very curious, I like trying out new technologies and techniques.
 
 I believe that agile and XP principles and practices are the best way to deliver high-quality, cost-effective and long-lasting software.
 
-Currently trying to improve my knowledge and skills in Domain-Driven Design.
-
 
 Articles:
 
